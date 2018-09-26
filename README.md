@@ -14,9 +14,18 @@ git commit -m "your message here" 	| now your changes are on the correct branch
 
 ## OR with Cherry-Pick
 
-Git Commnad 	        		  		| Description
------------------------------------ 	| ---------------
-git checkout correct-branch | move to the correct branch
-git cherry-pick master		| grab the last commit to master
-git checkout master 	  	| move to master
-git reset HEAD~ --hard		| delete it from master
+Git Commnad 	                    | Description
+----------------------------------- | ---------------
+git checkout correct-branch         | move to the correct branch
+git cherry-pick master		        | grab the last commit to master
+git checkout master 	  			| move to master
+git reset HEAD~ --hard				| delete it from master
+
+## Discarding local changes (permanently)
+
+Git Commnad 	            		| Description
+----------------------------------- | ---------------
+git checkout -- <file> 				| discards local changes in a file (permantently)
+git checkout -- .      				| discards local changes in all file (permantently)	
+
+
