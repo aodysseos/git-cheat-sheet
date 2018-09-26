@@ -2,6 +2,7 @@
 Useful git commands!
 
 ## [:man_facepalming: Undoing](undoing/index.md)
+## [:couple_with_heart: Merging](undoing/index.md)
 
 ## Accidentally committed to the wrong branch
 
