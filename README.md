@@ -25,7 +25,7 @@ git reset HEAD~ --hard				| delete it from master
 
 Git Commnad 	            		| Description
 ----------------------------------- | ---------------
-git checkout -- <file> 				| discards local changes in a file (permantently)
+git checkout -- `file` 				| discards local changes in a file (permantently)
 git checkout -- .      				| discards local changes in all file (permantently)	
 
 
