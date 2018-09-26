@@ -1,14 +1,16 @@
-# :man_facepalming: Undoing
-
 [:point_left:BACK](../README.md)
 
-> **Amend the message of my last commit**
+# :man_facepalming: Undoing
+
+
+
+## Amend the message of my last commit
 
 Git Commnad 	        		  		    | Description
 ------------------------------------------- | ---------------
 **`git commit --ament`** 			  		| follow prompts to change the commit message, save and exit using `:x`
 
-> **Accidentally committed to the wrong branch**
+## Accidentally committed to the wrong branch
 
 Git Commnad 	        		  		    | Description
 ------------------------------------------- | ---------------
@@ -19,7 +21,7 @@ Git Commnad 	        		  		    | Description
 **`git add . # or add individual files`**   | add changes to correct branch
 **`git commit -m "your message here"`** 	| now your changes are on the correct branch
 
-> **Accidentally committed to the wrong branch (Cherry-Pick)**
+## Accidentally committed to the wrong branch (Cherry-Pick)**
 
 Git Commnad 	                        	| Description
 ------------------------------------------- | ---------------
