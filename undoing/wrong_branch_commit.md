@@ -11,11 +11,11 @@ Git Commnad 	        		  		    | Description
 
 ## OR with Cherry-Pick
 
-Git Commnad 	                    | Description
------------------------------------ | ---------------
-`git checkout correct-branch`         | move to the correct branch
-`git cherry-pick master`		        | grab the last commit to master
-`git checkout master` 	  			| move to master
-`git reset HEAD~ --hard`				| delete it from master
+Git Commnad 	                        	| Description
+------------------------------------------- | ---------------
+**`git checkout correct-branch`**        	| move to the correct branch
+**`git cherry-pick master`**		        | grab the last commit to master
+**`git checkout master`**	  				| move to master
+**`git reset HEAD~ --hard`**				| delete it from master
 
 [:point_left:BACK](index.md)
