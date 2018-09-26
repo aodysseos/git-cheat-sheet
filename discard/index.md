@@ -7,6 +7,4 @@ Git Commnad 	            		| Description
 git checkout -- `file` 				| discards local changes in a file (permantently)
 git checkout -- .      				| discards local changes in all file (permantently)	
 
-[:point_left:BACK](index.md)
-
 [:couple_with_heart:BACK](../README.md)
