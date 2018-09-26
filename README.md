@@ -1,7 +1,7 @@
 # :steam_locomotive: git-cheat-sheet :steam_locomotive:
 Useful git commands!
 
-- [:point_left:](undoing/index.md)
+## [:man_facepalming: Undoing](undoing/index.md)
 
 ## Accidentally committed to the wrong branch
 
