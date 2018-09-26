@@ -1,6 +1,6 @@
 # :poop: Discard
 
-# Discarding local changes (permanently)
+## Discarding local changes (permanently)
 
 Git Commnad 	            		| Description
 ----------------------------------- | ---------------
