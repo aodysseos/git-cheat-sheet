@@ -1,7 +1,5 @@
 # :poop: Discard
 
-###### Discarding local changes (permanently)
-
 Git Commnad 	            		| Description
 ----------------------------------- | ---------------
 git checkout -- `file` 				| discards local changes in a file (permantently)
