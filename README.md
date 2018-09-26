@@ -1,4 +1,4 @@
-# git-cheat-sheet
+# :steam_locomotive:git-cheat-sheet:steam_locomotive:
 Useful git commands!
 
 ## Accidentally committed to the wrong branch
