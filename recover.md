@@ -8,7 +8,7 @@ To recover a deleted branch you need to find the commit which was the head of yo
 Git Commnad 	            						| Description
 --------------------------------------------------- | ---------------
 **`git reflog`**									| find the commit which was the head of your deleted branch
-**`git checkout -b <branch-name><sha1-of-commit>`** | re-create the branch
+**`git checkout -b <branch-name> <sha1-of-commit>`** | re-create the branch
 
 
 :point_left:[BACK](README.md)
