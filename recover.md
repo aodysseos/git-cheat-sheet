@@ -1,7 +1,7 @@
 # :pray: RECOVER
 
 
-### Recover a deleted branch
+### 1. Recover a deleted branch
 
 To recover a deleted branch you need to find the commit which was the head of your deleted branch by running `git reflog`.
 
