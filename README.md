@@ -1,6 +1,8 @@
 # :steam_locomotive: git-cheat-sheet :steam_locomotive:
 Useful git commands!
 
+- [:point_left:](undoing/index.md)
+
 ## Accidentally committed to the wrong branch
 
 Git Commnad 	        		  	| Description
@@ -27,5 +29,3 @@ Git Commnad 	            		| Description
 ----------------------------------- | ---------------
 git checkout -- `file` 				| discards local changes in a file (permantently)
 git checkout -- .      				| discards local changes in all file (permantently)	
-
-
