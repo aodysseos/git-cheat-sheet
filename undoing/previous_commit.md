@@ -10,4 +10,4 @@ git stash pop 					  	| apply stash
 git add . # or add individual files | add changes to correct branch
 git commit -m "your message here" 	| now your changes are on the correct branch 
 
-- [:point_left:](undoing.md)
+[:point_left:BACK](../index.md)
