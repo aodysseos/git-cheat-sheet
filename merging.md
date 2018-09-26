@@ -2,4 +2,4 @@
 
 Coming soon!
 
-[:point_left:BACK](README.md)
+:point_left:[BACK](README.md)

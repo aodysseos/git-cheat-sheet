@@ -39,4 +39,4 @@ Git Commnad 	                        	| Description
 **`git checkout master`**	  				| move to master
 **`git reset HEAD~ --hard`**				| delete it from master
 
-[:point_left:BACK](README.md)
+:point_left:[BACK](README.md)
