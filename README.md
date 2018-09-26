@@ -2,6 +2,6 @@
 Useful git commands!
 
 ## :man_facepalming:[Undoing](undoing.md)
-## :couple_with_heart:[Merging](merging/index.md)
-## :pray:[Recover](recover/index.md)
-## :poop:[Discard](discard/index.md)
+## :couple_with_heart:[Merging](merging.md)
+## :pray:[Recover](recover.md)
+## :poop:[Discard](discard.md)

@@ -1,5 +1,0 @@
-# :man_facepalming: Merging
-
-Comming soon!
-
-[:couple_with_heart:BACK](../README.md)
