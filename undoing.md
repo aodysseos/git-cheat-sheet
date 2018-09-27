@@ -2,7 +2,14 @@
 
 :point_left:[BACK](README.md)
 
-### 1. Return to previous commit
+### 1. Undo `git add` before commit
+
+Git Commnad 	        		  			| Description
+----------------------------------------- 	| ---------------
+**`git reset <file>`** 			  			| unstage specific file
+**`git reset`** 			  				| unstage all files
+
+### 2. Return to previous commit
 
 Git Commnad 	        		  			| Description
 ----------------------------------------- 	| ---------------
@@ -13,13 +20,13 @@ Git Commnad 	        		  			| Description
 **`git add . # or add individual files`**  	| add changes to correct branch
 **`git commit -m "your message here"`**  	| now your changes are on the correct branch 
 
-### 2. Amend the message of my last commit
+### 3. Amend the message of my last commit
 
 Git Commnad 	        		  		    | Description
 ------------------------------------------- | ---------------
 **`git commit --ament`** 			  		| follow prompts to change the commit message, save and exit using `:x`
 
-### 3. Accidentally committed to the wrong branch
+### 4. Accidentally committed to the wrong branch
 
 Git Commnad 	        		  		    | Description
 ------------------------------------------- | ---------------
@@ -30,7 +37,7 @@ Git Commnad 	        		  		    | Description
 **`git add . # or add individual files`**   | add changes to correct branch
 **`git commit -m "your message here"`** 	| now your changes are on the correct branch
 
-### 4. Accidentally committed to the wrong branch (Cherry-Pick)
+### 5. Accidentally committed to the wrong branch (Cherry-Pick)
 
 Git Commnad 	                        	| Description
 ------------------------------------------- | ---------------
