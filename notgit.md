@@ -7,7 +7,7 @@
 Command     	        		  			| Description
 ----------------------------------------- 	| ---------------
 **`sudo lsof -i :<port>`** 			  		| list processes running on specific port
-**`lsof -i -n -P | grep TCP`** 			  	| list TCP ports in use
+**`lsof -i -n -P &#124; grep TCP`** 			  	| list TCP ports in use
 **`sudo pkill mysql`** 			  			| Kill mysql
 **`sudo nano /etc/hosts`** 			  		| manage local hosts
 
