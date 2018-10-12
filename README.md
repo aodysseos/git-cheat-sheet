@@ -12,3 +12,5 @@ Useful git commands!
 	1. Recover a deleted branch
 ## :poop:[Discard](discard.md)
 	1. Discarding local changes (permanently)
+## :alien:[Not Git](notgit.md)
+	1. MacOS and MySQL
