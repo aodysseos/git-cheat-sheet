@@ -13,4 +13,5 @@ Useful git commands!
 ## :poop:[Discard](discard.md)
 	1. Discarding local changes (permanently)
 ## :alien:[Not Git](notgit.md)
-	1. MacOS and MySQL
+	1. MacOS terminal commands 
+	2. MySQL commands
