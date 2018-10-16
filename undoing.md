@@ -46,4 +46,13 @@ Git Commnad 	                        	| Description
 **`git checkout master`**	  				| move to master
 **`git reset HEAD~ --hard`**				| delete it from master
 
+### 6. Remove file or directory after adding it in to `.gitignore` file
+
+Git Commnad 	                        	| Description
+------------------------------------------- | ---------------
+**`git rm -r --cached <file-name>`** OR **`<directory>/*'`** | the staged content has to match the tip of the branch allowing the file to be removed from the index
+**`git commit -m "<your message>"`**    					 | commit your changes
+**`git push <remote> <branch>`**        					 | push your changes 
+
 :point_left:[BACK](README.md)
+

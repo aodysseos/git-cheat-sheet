@@ -7,6 +7,8 @@ Useful git commands!
 	3. Amend the message of my last commit
 	4. Accidentally committed to the wrong branch
 	5. Accidentally committed to the wrong branch (Cherry-Pick)
+	6. Remove file or directory after adding it in to `.gitignore` file
+
 ## :couple_with_heart:[Merging](merging.md)
 ## :pray:[Recover](recover.md)
 	1. Recover a deleted branch
