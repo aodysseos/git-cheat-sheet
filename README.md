@@ -17,3 +17,4 @@ Useful git commands!
 ## :alien:[Not Git](notgit.md)
 	1. MacOS terminal commands 
 	2. MySQL commands
+	3. Reseting MYSQL 'root' user password
